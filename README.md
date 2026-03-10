@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Piotr Salustowicz
 
-🎓 Data Science graduate from ZHAW School of Engineering  
+🎓 Data Science graduate
 📊 Interested in Machine Learning, Data Engineering, and Data Quality Systems  
 💻 I build analytical tools, machine learning models, and data validation pipelines to transform raw data into reliable insights.
 
