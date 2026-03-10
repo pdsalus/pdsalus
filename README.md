@@ -101,15 +101,6 @@ SQL • BigQuery • LookerML • Looker Studio • Hex
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
----
-
-# 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=pdsalus&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pdsalus&layout=compact&theme=tokyonight)
-
-
 <!--
 **pdsalus/pdsalus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
